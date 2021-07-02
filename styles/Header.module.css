@@ -1,0 +1,14 @@
+.header {
+  background-color: "blue";
+  color: "white";
+  width: "100%";
+  height: "50px";
+}
+
+.header__logo {
+  background: url("../public/pocketfilm_logo.svg");
+}
+
+.header__links {
+  color: black;
+}
